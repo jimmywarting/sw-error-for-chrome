@@ -9,7 +9,7 @@ const indexHtml = `
   <body>
     <h1>Hello World</h1>
     now open chrome devtool, open the application tab, and inspect service worker
-    find the start/stop link and press it
+    find the stop/start link and press it
     <script>
       navigator.serviceWorker.register('/sw.js', { type: 'module' })
     </script>

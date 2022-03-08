@@ -1,0 +1,1 @@
+# sw-error-for-chrome
